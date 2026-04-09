@@ -1,0 +1,18 @@
+1)Threaded Brass Inserts
+ M3x3mm  = 4 pc
+
+2)Threaded Bolts
+M3x8mm = 4 pc
+
+3)Printing Guide
+3.1 
+We used Bambulab A1 printer Without AMS to print all the parts in PLA. 
+We will keep front face of clock on build plate,
+To Allow Light to Pass through PLA We are going to print 
+first layer of MAIN CASE stl with LITHOPANE WHITE / WHITE PLA and put a pause, then change 
+filament color to your choice for Remaining, we used Black for blocking Unnecessary lights .
+all other parts can be Printed in your color of choice.
+
+3.2
+FUEL GUAGE stl part is required to stick on PCB where battery level led are placed making separation
+for each led to avoid mixing of led light 
